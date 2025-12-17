@@ -228,7 +228,7 @@
 
     .header__dropdown {
       max-width: 10ch;
-      background-image: url("/assets/images/icon-units.svg");
+      background-image: url("/weather-siva/assets/images/icon-units.svg");
       background-repeat: no-repeat;
       background-position: 16px center;
       padding: 12px 40px;
@@ -265,7 +265,7 @@
     }
 
     .hero__textbox {
-      background-image: url("/assets/images/icon-search.svg");
+      background-image: url("/weather-siva/assets/images/icon-search.svg");
       background-repeat: no-repeat;
       background-position: 24px center;
       background-color: var(--color-panel-bg-dark);
@@ -303,7 +303,7 @@
       gap: 16px;
       margin-block-end: 20px;
       padding: 40px 24px;
-      background-image: url("/assets/images/bg-today-small.svg");
+      background-image: url("/weather-siva/assets/images/bg-today-small.svg");
       background-repeat: no-repeat;
       background-color: var(--c-blue-700);
       background-size: cover;
@@ -315,7 +315,7 @@
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        background-image: url("/assets/images/bg-today-large.svg");
+        background-image: url("/weather-siva/assets/images/bg-today-large.svg");
         padding-block: 83px;
       }
     }
@@ -537,3 +537,4 @@
   left: 20px;
   font-size: var(--font-size-forecast-hour);
 }
+
